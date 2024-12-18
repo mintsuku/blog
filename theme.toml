@@ -3,11 +3,10 @@ description = "A minimalist Zola theme that prioritizes clean CSS and avoids hea
 license = "MIT"
 homepage = "https://github.com/Speyll/anemone"
 min_version = "0.4.0"
-demo = "https://anemone.pages.dev"
 
 [extra]
 
 
 [author]
 name = "Speyll"
-homepage = "https://speyllsite.pages.dev/"
+homepage = "https://mintsuku.pages.dev/"
