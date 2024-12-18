@@ -8,6 +8,7 @@ title = "Writing A Lexer In Rust"
 
 
 
-## Tiny BASIC
+## Brief History Of Tiny Basic
 
 ## How Lexers Work
+
