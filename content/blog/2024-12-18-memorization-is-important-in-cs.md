@@ -7,7 +7,7 @@ title = "Memorization Is Important In CS"
 +++
 
 
-# Okay. And?
+## Okay. And?
 
 In many forums and academic environments related to computer science, there is often disdain for memorization. This stems from a discourse on effective study habits and how one ought to retain information. While heavy emphasis is placed on "understanding" a concept rather than rote memorization, I generally agree. However, many people fail to distinguish between "rote memorization" and memorization that serves as a foundation for deeper conceptual understanding. Although one shouldn't aim purely to memorize information, some form of memory is necessary to retain understanding.
 
